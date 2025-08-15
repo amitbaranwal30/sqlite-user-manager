@@ -133,7 +133,7 @@ def menu():
     create_table()
 
     while True:
-        print('\n=== Welcome to User Manager App ===')
+        print('\n==== Welcome to User Manager Application ====')
         print("1. Add User")
         print("2. View All Users")
         print("3. Search User")

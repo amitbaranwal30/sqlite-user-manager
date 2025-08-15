@@ -19,11 +19,12 @@ A command-line Python application to manage users records with SQLite.
 3. CSV module
 4. Re Module (Regex for email validation)
 
-
-==== User Manager ====
+## Example Output 
+==== Welcome to User Manager Application ====
 1. Add User
 2. View All User
 3. Search Users
 4. Delete Users
 5. Export to CSV
 6. Exit
+Enter your choice (1-6):
