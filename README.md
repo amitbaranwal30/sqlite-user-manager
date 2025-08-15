@@ -13,7 +13,7 @@ A command-line Python application to manage users records with SQLite.
 - Email format validation
 - Prevent duplicate emails
 
-# Technology used
+## Technology used
 1. Python 3
 2. SQLite3
 3. CSV module

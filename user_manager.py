@@ -116,7 +116,7 @@ def export_to_csv():
             print("No records found to export !")
             conn.close()
             return
-        filename = f'user_exported_date_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv'
+        filename = f'user_exported_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv' #file name( user_exported_date_time)
 
         with open (filename, "w", newline='') as file:
             writer = csv.writer(file)
