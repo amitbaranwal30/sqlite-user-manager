@@ -99,7 +99,7 @@ def delete_user(user_id):
         if cursor.rowcount > 0:
             print(f'\nUser with ID "{user_id}" deleted.')
         else:
-            print("user not fount.")
+            print("user not found.")
         conn.close()
 
     except Exception as e:

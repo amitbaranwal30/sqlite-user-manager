@@ -1,9 +1,12 @@
 
-# Python bytecode and cache
+# ignore Python cache
 __pycache__/
-*.py[cod]
+*.pyc
 
 
-
+# ignore sqlite database file
 *.db
+
+# ignore csv files 
 *.csv
+
