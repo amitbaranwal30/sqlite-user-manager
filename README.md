@@ -26,5 +26,5 @@ A command-line Python application to manage users records with SQLite.
 3. Search Users
 4. Delete Users
 5. Export to CSV
-6. Exit
+6. Exit  
 Enter your choice (1-6):
